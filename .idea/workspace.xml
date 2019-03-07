@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17cddabf-edc5-43db-bb0d-c842e64137b3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +49,8 @@
       <file leaf-file-name=".env.example" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env.example">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+            <state relative-caret-position="414">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -466,12 +465,12 @@
       <updated>1551783337099</updated>
       <workItem from="1551783338976" duration="2252000" />
       <workItem from="1551785672336" duration="20070000" />
-      <workItem from="1551954122576" duration="8772000" />
+      <workItem from="1551954122576" duration="8921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31094000" />
+    <option name="totallyTimeSpent" value="31243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -484,8 +483,8 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22104144" />
-      <window_info active="true" content_ui="combo" x="2817" y="499" width="126" height="42" id="Project" order="0" sideWeight="0.5972222" side_tool="true" visible="true" weight="0.16458334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22104144" />
+      <window_info content_ui="combo" x="2817" y="499" width="126" height="42" id="Project" order="0" sideWeight="0.5972222" side_tool="true" visible="true" weight="0.16458334" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" x="326" y="55" width="324" height="454" id="Database" order="3" weight="0.3296875" />
       <window_info anchor="right" x="2843" y="499" width="74" height="42" id="Structure" order="4" sideWeight="0.44952178" side_tool="true" visible="true" weight="0.14427084" />
@@ -796,8 +795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+        <state relative-caret-position="414">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
         </state>
       </provider>
     </entry>
