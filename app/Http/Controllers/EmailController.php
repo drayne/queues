@@ -13,7 +13,7 @@ class EmailController extends Controller
     public function index()
     {
         $i = 0;
-        while($i < 30){
+        while($i < 3){
             $this->sendEmailJob();
             $i++;
         }
